@@ -106,6 +106,5 @@ Manage unlimited WhatsApp accounts automatically and deliver **24/7 customer ser
 ![Screenshot 3](https://i.ibb.co/s9tgGZSZ/03.png)  
 ![Screenshot 4](https://i.ibb.co/cKXq3qTz/04.png)  
 ![Screenshot 5](https://i.ibb.co/JFRZ6TYc/05.png)  
-![Screenshot 6](https://i.ibb.co/Q7t2qKrt/06.png)
 
 ---
