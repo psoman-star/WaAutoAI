@@ -6,7 +6,7 @@
 
 ## 🚀 Empower Your WhatsApp Business with AI
 
-Quickly deploy intelligent **WhatsApp chatbots** powered by the advanced **OpenAI GPT-4o** technology.  
+Quickly deploy intelligent **WhatsApp chatbots** powered by the advanced **OpenAI GPT-5o** technology.  
 Manage unlimited WhatsApp accounts automatically and deliver **24/7 customer service and marketing automation**. Designed for digital marketing agencies, e-commerce businesses, and customer support teams, this all-in-one solution helps you boost customer satisfaction, save labor costs, and generate passive income.
 
 ---
